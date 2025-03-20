@@ -1,4 +1,5 @@
-# 🎓 Final Project – Digital Systems Laboratory 
+# 🎓 Final Project – Digital Systems Laboratory
+
 📍 **University of Aveiro**
 🏆 **Grade: 18.3/20**
 
