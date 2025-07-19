@@ -1,5 +1,6 @@
 # 🎓 Final Project – Digital Systems Laboratory
 📍 **University of Aveiro**
+
 🏆 **Grade: 18.3/20**
 
 Development of a digital Air Fryer simulation using VHDL and implemented on an FPGA (Terasic DE2-
